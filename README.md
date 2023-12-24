@@ -1,4 +1,4 @@
-# PythonCheatSheets
+# Python Libraries Handbook
 
 Welcome to the Python Cheat Sheet repository! This cheat sheet is curated to provide a quick reference of Python libraries for study and interview preparation.
 
