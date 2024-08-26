@@ -26,3 +26,33 @@ Welcome to the Python Cheat Sheet repository! This cheat sheet is curated to pro
        - hsplit vs vsplit
        - Stacking
        - Concatenation
+
+2. [Pandas](#pandas)
+          - DataFrame
+          - Dataset
+          - Slicing
+          - Masking
+          - Filtering
+          - Dataset Manipulation
+          - Data Cleaning
+          - Aggregation
+          - Aggregation using Lambda
+          - GroupBy Functions
+          - Joins
+          - Restructuring (Melt & Pivot)
+          - Date and Time Manipulation
+
+3. [Python](#python)
+          - What is Python
+          - Variables
+          - TypeCasting
+          - Operators
+          - Control Statements
+          - Functions
+          - Lambda Functions
+          - Tuple
+          - List
+          - Set
+          - Dictionaries
+          - Arrays
+          - Object Oriented Programming
